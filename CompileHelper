@@ -1,3 +1,5 @@
+export ARCH=arm CROSS_COMPILE=/home/godfatherx64/android/du/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8/bin/arm-eabi-
+or
 export ARCH=arm CROSS_COMPILE=/home/godfatherx64/android/du/prebuilts/gcc/linux-x86/arm/arm-eabi-4.9/bin/arm-eabi-
 
 make clean && make mrproper
